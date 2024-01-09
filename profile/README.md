@@ -1,16 +1,8 @@
-## Hi there 👋
-# AI The Cure
-Welcome your self to world of new AI tools which will make your work easy .
-#### Under the master Group of Dr. CodBy
+# 🙋‍♀️ A short introduction 
+We are two member team working from Mumbai, India. We have been working under Kevin Luke for his school Project  Science AI Symbiotic Group. The founding members are Sai and Vansh. Sai has very good expertise in Python.
+# 🌈 Contribution guidelines - how can the community get involved?
+Create a pull request and wait to get featured.
 
+# 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We will like all of you to help us if you can help one of us we will be happy you can even comtact Vansh for this.
